@@ -55,14 +55,8 @@ For images, the application uses OpenCV to display the label directly on the ima
 
 ## Usage
 
-1. **Training the Model**:
-    - Ensure your dataset is in the `data/` directory.
-    - Run the training script to preprocess data and train the model:
-        ```sh
-        python train_model.py
-        ```
 
-2. **Running the Application**:
+1. **Running the Application**:
     - Start the desktop application:
         ```sh
         python main.py
@@ -92,10 +86,6 @@ For images, the application uses OpenCV to display the label directly on the ima
 
 ![image](https://github.com/MohammadMoataz2/Weather-Forecasting-Application/assets/123085286/68e744d1-c767-4c13-be42-87aec50dda21)
 
-## Acknowledgements
-
-- Thanks to the open-source community for providing pre-trained models and tools.
-- Special thanks to the dataset providers.
 
 
 
